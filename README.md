@@ -3,7 +3,7 @@
 **Front-End Web Developer**
 
 📧 Email: mahdihosseinpour1996[at]gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](Your LinkedIn Profile) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](Your GitHub Profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mahdi-hosseinpour-8841b329a/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/m-hosseinpour)
 
 ---
 
