@@ -1,65 +1,60 @@
-# Mahdi Hosseinpour
+# 👨‍💻 Mahdi Hosseinpour
 
-**Front-End Web Developer**
-
-📧 Email: mahdihosseinpour1996[at]gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mahdi-hosseinpour-8841b329a/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/m-hosseinpour)
-
----
-
-### Professional Summary
-
-Experienced web developer with 7+ years in software development, specializing in Java, JavaScript, and TypeScript, with solid skills in Angular, React, and modern web frameworks. Skilled in designing RESTful APIs and managing SQL databases. Proven track record of acting as a technical bridge between employers and development teams, with expertise in Agile, Scrum, and Kanban methodologies.
+📧 [mahdihosseinpour@gmail.com](mailto:mahdihosseinpour@gmail.com)  
+🐙 [GitHub](https://github.com/m-hosseinpour)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mahdi-hosseinpour-8841b329a/)  
 
 ---
 
-### 🛠 Technical Skills
+## 📝 Summary
 
-**Programming Languages**  
-- **Expert:** Java, JavaScript, TypeScript  
-- **Intermediate:** Python  
-
-**Frameworks & Libraries**  
-- **Proficient:** Angular, React, AngularJS  
-- **UI Frameworks:** Bootstrap, Tailwind CSS  
-
-**Backend Technologies**  
-- **Frameworks:** Spring, Hibernate  
-- **API Design:** RESTful API Design  
-
-**DevOps & Infrastructure**  
-- **Tools:** Docker  
-- **OS Knowledge:** Intermediate to advanced Linux  
-
-**Databases**  
-- **SQL Databases:** Proficient in SQL and PostgreSQL  
-
-**Front-End Development**  
-- **Languages & Tools:** HTML, CSS  
-- **Preprocessors:** SASS/SCSS  
-
-**Collaboration & Project Management Tools**  
-- **Tools:** Git (advanced), Jira (extensive experience with board and task management)  
-
-**Additional Skills**  
-- **Testing & Quality Assurance:** Experienced in writing e2e tests for AngularJS and testing tasks  
-- **Optimization & Management:** Skilled in software optimizations and Agile, Scrum, and Kanban methodologies  
-- **Leadership Skills:** Liaison experience between employers and technical teams, mentoring team members as a senior developer  
-
-**Monitoring & Analysis Tools**  
-- **Logging & Monitoring:** Experienced in backend log analysis and using monitoring tools
+Full-stack Developer with 7 years of experience specializing in web application development using **Java Spring** and **Angular/AngularJS**. Skilled in leading development teams, coordinating with Product Owners (POs), and working with **RESTful APIs** and backend optimizations. Known for effective collaboration in **Agile** teams and a solid foundation in both backend and frontend technologies.
 
 ---
 
-### 💼 Professional Experience
+## 💼 Experience
 
-**Senior Developer & Technical Liaison | [Company Name]**  
-*Start Date – End Date*  
-- Led front-end and back-end development for software solutions, focusing on maintenance and scalability
-- Managed small teams, assisted in analyzing project requirements, and provided technical solutions
-- Collaborated with PO to optimize user experience and oversee team tasks  
-- Developed e2e tests and conducted quality assurance on AngularJS and other SPA projects  
+### **Full-Stack Developer & Team Lead**  
+**Dade Kavan Tasmimyar**  
+*October 2017 – Present*
+
+- **Team Leadership**: Lead and manage a development team to design, develop, and deploy web applications, ensuring alignment with client requirements and deadlines.
+- **Full-Stack Development**: Build applications with **Java (Spring framework)**, **Hibernate**, **PostgreSQL**, and **Elasticsearch** on the backend, and **Angular/AngularJS** on the frontend; familiar with **Python** for additional scripting needs.
+- **Agile Collaboration**: Collaborate with POs to convert requirements into technical specs, engaging in project planning and prioritization using **Scrum** and **Kanban**.
+- **Performance Optimization**: Conduct backend log analysis and performance optimizations to ensure application reliability and efficiency.
+- **API Integration**: Integrate and document **RESTful APIs** for seamless functionality and maintainability.
+- **Mentorship**: Onboard new developers to team processes and standards, ensuring smooth integration and high-quality contributions.
+- **DevOps Tools**: Use **Docker** to containerize applications, manage environments on **Linux**, and version control with **Git**.
+- **Project Management**: Organize and track projects with **Git** and **Jira**, ensuring transparent workflows.
 
 ---
 
-> Thank you for visiting my GitHub profile! Feel free to connect with me for collaborations and discussions. 😊
+## 🎓 Education
+
+**Bachelor's Degree in Computer Engineering**  
+Sharif University of Technology  
+*October 2014 – July 2019*
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages & Frameworks**: Java (Spring, Hibernate), JavaScript/TypeScript (AngularJS, Angular), HTML/CSS (Bootstrap, TailwindCSS), PostgreSQL, Elasticsearch, Python (familiar)
+- **Frontend Familiarity**: ReactJS
+- **APIs & Testing**: RESTful APIs, End-to-End (E2E) Testing (familiar)
+- **DevOps Tools**: Docker, Linux, Git
+- **Project Management Tools**: Jira
+- **Methodologies**: Agile, Scrum, Kanban
+- **Additional Skills**: Backend log analysis, performance optimizations, intermediate English proficiency for technical reading and communication
+
+---
+
+## 📈 Projects
+
+- **Custom Chat Bots & Small Projects**: Designed and deployed chat bots and small applications to meet custom requirements for diverse use cases. Used both frontend and backend technologies to build interactive and functional tools.
+
+---
+
+## 🌐 Languages
+
+- **English**: Intermediate (Proficient in reading and understanding technical documentation)
