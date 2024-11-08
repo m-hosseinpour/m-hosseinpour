@@ -1,6 +1,6 @@
-# 👨‍💻 Mahdi Hosseinpour
+# Mahdi Hosseinpour
 
-📧 [mahdihosseinpour@gmail.com](mailto:mahdihosseinpour@gmail.com)  
+📧 mahdihosseinpour[at]gmail  
 🐙 [GitHub](https://github.com/m-hosseinpour)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mahdi-hosseinpour-8841b329a/)  
 
