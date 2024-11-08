@@ -39,8 +39,7 @@ Sharif University of Technology
 
 ## 🛠️ Technical Skills
 
-- **Languages & Frameworks**: Java (Spring, Hibernate), JavaScript/TypeScript (AngularJS, Angular), HTML/CSS (Bootstrap, TailwindCSS), PostgreSQL, Elasticsearch, familiar with Python
-- **Frontend Familiarity**: ReactJS
+- **Languages & Frameworks**: Java (Spring, Hibernate), JavaScript/TypeScript (AngularJS, Angular), HTML/CSS (Bootstrap, TailwindCSS), PostgreSQL, Elasticsearch, familiar with Python, familiar with ReactJS
 - **APIs & Testing**: RESTful APIs, familiar with End-to-End (E2E) Testing
 - **DevOps Tools**: Docker, Linux, Git
 - **Project Management Tools**: Jira
