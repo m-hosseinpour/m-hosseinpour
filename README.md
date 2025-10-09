@@ -51,7 +51,8 @@ Sharif University of Technology
 
 ## 📈 Projects
 
-- **Custom Chat Bots & Small Projects**: Designed and deployed chat bots and small applications to meet custom requirements for diverse use cases. Used both frontend and backend technologies to build interactive and functional tools.
+- **Enterprise & Startup Applications**: Contributed to multiple full-stack projects at my company using Java-AngularJS, Java-Angular, and RubyOnRails-Vue.js stacks.
+- **Custom Chat Bots & Small Projects**: Designed and deployed chat bots and small applications for diverse use cases using modern frontend and backend technologies.
 
 ---
 
