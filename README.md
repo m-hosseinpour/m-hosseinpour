@@ -9,13 +9,13 @@
 
 ## 📝 Summary
 
-Full-stack Developer with 7 years of experience specializing in web application development using **Java Spring** and **Angular/AngularJS**. Skilled in leading development teams, coordinating with Product Owners (POs), and working with **RESTful APIs** and backend optimizations. Known for effective collaboration in **Agile** teams and a solid foundation in both backend and frontend technologies.
+Software Engineer (Full-stack) with 7 years of experience specializing in web application development using **Java Spring** and **Angular/AngularJS**. Skilled in leading development teams, coordinating with Product Owners (POs), and working with **RESTful APIs** and backend optimizations. Known for effective collaboration in **Agile** teams and a solid foundation in both backend and frontend technologies.
 
 ---
 
 ## 💼 Experience
 
-### **Full-Stack Developer & Team Lead**  
+### **Software Engineer (Full-stack) & Team Lead**  
 **Dade Kavan Tasmimyar**  
 *October 2017 – Present*
 
